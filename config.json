@@ -1,0 +1,9 @@
+{
+  "name": "瓦羅蘭特 Valorant",
+  "emoji": "🔫",
+  "color": "FF4655",
+  "feeds": [
+    {"type": "rss", "url": "https://data.rito.news/val/zh-tw/news.rss", "label": "官方公告"},
+    {"type": "youtube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg", "label": "YouTube"}
+  ]
+}
